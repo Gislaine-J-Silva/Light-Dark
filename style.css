@@ -61,7 +61,7 @@ div.avatar {
     border: .15rem solid black;
 }
 
-.dark #userAvatar {
+.dark #userAvatar.dark  {
     border: .15rem solid white;
 }
 
