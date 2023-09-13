@@ -238,7 +238,7 @@ div.avatar {
     color: black;
 }
 
-.dark #copyright p, .dark #copyright p a {
+.dark #copyright p.dark{
     color: #ffff;
 }
 
