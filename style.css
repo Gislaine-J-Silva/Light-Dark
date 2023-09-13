@@ -238,7 +238,7 @@ div.avatar {
     color: black;
 }
 
-#copyright p a:visited {
+#copyright a:visited {
     color: black;
     text-decoration: black;
 }
@@ -247,7 +247,7 @@ div.avatar {
     color: #ffff;
 }
 
-.dark #copyright p.dark a:visited {
+.dark #copyright a:visited {
     color: white;
     text-decoration: white;
 }
