@@ -249,7 +249,7 @@ div.avatar {
     text-decoration: black;
 }
 
-.dark #copyright p.dark{
+.dark #copyright p.dark, .dark #copyright p.dark a{
     color: #ffff;
 }
 
