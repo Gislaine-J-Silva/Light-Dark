@@ -246,7 +246,6 @@ div.avatar {
 
 #copyright a:visited {
     color: black;
-    text-decoration: black;
 }
 
 .dark #copyright p.dark, .dark #copyright p.dark a{
@@ -259,7 +258,6 @@ div.avatar {
 
 .dark #copyright a:visited {
     color: white;
-    text-decoration: white;
 }
 
 @media (max-width:989px) {
