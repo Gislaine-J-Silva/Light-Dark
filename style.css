@@ -59,6 +59,8 @@ div.avatar {
 
     border-radius: 9.4rem;
     border: .15rem solid black;
+
+    background-color: white;
 }
 
 .dark #userAvatar.dark  {
