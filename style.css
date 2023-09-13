@@ -27,7 +27,7 @@ body {
 
 .light body {
     color: black;
-    background: url(./img/bg-desktop-light.jpg) no-repeat;
+    background: url(bg-desktop-light.jpg) no-repeat;
     background-size: 100% 100%;
 }
 
