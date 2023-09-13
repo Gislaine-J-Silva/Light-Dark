@@ -242,6 +242,10 @@ div.avatar {
     color: white;
 }
 
+.dark #copyright a {
+    color: #ffff;
+}
+
 @media (max-width:989px) {
     html{
         background: url(./img/bg-mobile-light.jpg) no-repeat;
