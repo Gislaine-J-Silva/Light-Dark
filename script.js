@@ -80,9 +80,9 @@ const icone = document.getElementById('icone');
 toggleButton.addEventListener('click', function() {
     const iconeAtual = icone.getAttribute("src");
     
-    if (iconeAtual === "./icons/MoonStars.png") {
-        icone.setAttribute("src", "./icons/Sun.png");
-    } else {
+    if (iconeAtual === "./icons/Sun.png") {
         icone.setAttribute("src", "./icons/MoonStars.png");
+    } else {
+        icone.setAttribute("src", "./icons/Sun.png");
     }
 });
