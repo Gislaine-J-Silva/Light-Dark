@@ -58,11 +58,11 @@ div.avatar {
     height: 7rem;
 
     border-radius: 9.4rem;
-    border: .15rem solid;
+    border: .15rem solid black;
 }
 
 .dark #userAvatar {
-    border: .15rem solid;
+    border: .15rem solid white;
 }
 
 .prefix {
