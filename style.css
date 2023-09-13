@@ -253,6 +253,10 @@ div.avatar {
     color: #ffff;
 }
 
+.dark #copyright a {
+    color: #ffff;
+}
+
 .dark #copyright a:visited {
     color: white;
     text-decoration: white;
