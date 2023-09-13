@@ -61,6 +61,10 @@ div.avatar {
     border: .15rem solid;
 }
 
+.dark #userAvatar {
+    border: .15rem solid white;
+}
+
 .prefix {
     display: inline-block;
 }
@@ -87,6 +91,11 @@ div.avatar {
 
     line-height: 1.5rem;
 }
+
+.dark .transparent-input {
+    color: white;
+}
+
 
 /* Botão de mudar o estilo */
 .botao {
