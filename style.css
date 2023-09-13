@@ -128,15 +128,11 @@ div.avatar {
     left: 0;
     transform: translateY(-50%);
     top: 50%;
-
-    background-image: url(./icons/Sun.png);
 }
 
 .dark #theme-toggle-btn {
     right: 0;
     left: auto;
-
-    background-image: url(./icons/MoonStars.png);
 }
 
 
