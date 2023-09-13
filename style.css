@@ -25,17 +25,16 @@ body {
     transition: background 0.3s ease;
 }
 
-.light body {
+html.light {
     color: black;
-    background: url(bg-desktop-light.jpg) no-repeat;
+    background: url(./img/bg-desktop-light.jpg) no-repeat;
     background-size: 100% 100%;
 }
 
-.dark body {
-    color: white;
-    background: url(./img/bg-desktop.jpg) no-repeat;
-    background-size: 100% 100%;
-}
+html.dark {
+        background: url(./img/bg-desktop.jpg) no-repeat;
+        background-size: 100% 100%;
+    }
 
 
 /* INPUT*/
