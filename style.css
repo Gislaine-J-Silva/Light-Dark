@@ -61,6 +61,10 @@ div.avatar {
     border: .15rem solid black;
 }
 
+.dark #userAvatar {
+    border: .15rem solid white;
+}
+
 .prefix {
     display: inline-block;
 }
