@@ -238,8 +238,10 @@ div.avatar {
     color: black;
 }
 
-
-.dark #copyright p, #copyright p a {
+.dark #copyright {
+    color: white;
+}
+.dark #copyright p a {
     color: #ffff;
 }
 
