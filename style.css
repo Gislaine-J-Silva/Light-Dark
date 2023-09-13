@@ -62,11 +62,15 @@ div.avatar {
 }
 
 .dark #userAvatar {
-    border: .15rem solid white;
+    border: .15rem solid;
 }
 
 .prefix {
     display: inline-block;
+}
+
+.dark .prefix {
+    color: white;
 }
 
 .nameUser {
@@ -90,10 +94,6 @@ div.avatar {
     min-width: 2rem;
 
     line-height: 1.5rem;
-}
-
-.dark .transparent-input {
-    color: white;
 }
 
 
