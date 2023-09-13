@@ -236,15 +236,9 @@ div.avatar {
     line-height: 1.5rem;
     font-weight: 400;
     color: black;
-
-    display: flex;
 }
 
-.dark #copyright.dark  {
-    color: white;
-}
-
-.dark #copyright a {
+.dark #copyright p, .dark #copyright p a {
     color: #ffff;
 }
 
