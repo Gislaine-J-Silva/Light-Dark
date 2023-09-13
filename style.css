@@ -24,13 +24,14 @@ body {
 
     transition: background 0.3s ease;
 }
-html.light {
+
+.light body {
     color: black;
     background: url(./img/bg-desktop-light.jpg) no-repeat;
     background-size: 100% 100%;
 }
 
-html.dark {
+.dark body {
     color: white;
     background: url(./img/bg-desktop.jpg) no-repeat;
     background-size: 100% 100%;
