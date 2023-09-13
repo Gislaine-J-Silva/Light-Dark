@@ -239,6 +239,10 @@ div.avatar {
     font-weight: 400;
     color: black;
 }
+#copyright a {
+    color: black;
+    text-decoration: black;
+}
 
 #copyright a:visited {
     color: black;
