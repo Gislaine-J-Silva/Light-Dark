@@ -235,13 +235,11 @@ div.avatar {
     font-size: .9rem;
     line-height: 1.5rem;
     font-weight: 400;
-}
-
-.light #copyright p a {
     color: black;
 }
 
-.dark #copyright p a {
+
+.dark #copyright, #copyright p a {
     color: #ffff;
 }
 
