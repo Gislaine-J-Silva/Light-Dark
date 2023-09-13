@@ -238,11 +238,8 @@ div.avatar {
     color: black;
 }
 
-.dark #copyright {
+.dark #copyright.dark  {
     color: white;
-}
-.dark #copyright p a {
-    color: #ffff;
 }
 
 @media (max-width:989px) {
